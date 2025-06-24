@@ -1,7 +1,4 @@
 # Histopathologic Cancer Detection
-
-This project addresses a binary image classification problem using data from the Histopathologic Cancer Detection competition on Kaggle. The goal is to predict whether a small tissue image (96×96 pixels) contains metastatic cancer.
-
 ### Problem Description and Dataset Overview
 
 This project addresses a binary image classification problem using data from the Histopathologic Cancer Detection competition on Kaggle. The goal is to predict whether a small tissue image (96×96 pixels) contains metastatic cancer.
